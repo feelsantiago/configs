@@ -1,0 +1,20 @@
+{
+    "coc.peferences.formatOnSaveFiletypes": [
+        "css",
+        "sass",
+        "scss",
+        "markdown",
+        "html",
+        "json",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "dart"
+    ],
+    "prettier.singleQuote": true,
+    "javascript.autoClosingTags": true,
+    "typescript.autoClosingTags": true,
+    "emmet.includeLanguages": ["javascript", "javascriptreact", "typescript", "typescriptreact", "html"],
+    "codeLens.enable": false
+}
